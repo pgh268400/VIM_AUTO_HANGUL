@@ -3,6 +3,9 @@
 한글 상태라면 자동으로 영문으로 바꿔주는 매크로입니다.  
 [해당 코드(출처)](https://github.com/johngrib/simple_vim_guide/blob/master/md/with_korean.md)를 조금 수정하였습니다.
 
+스크립트 실행 시 자동 트레이 상태로 동작하게 됩니다.  
+종료를 원하시면 트레이 된 아이콘에서 찾아서 종료해주시면 됩니다.
+
 # 지원 키
 - ESC
 - CTRL + [  
